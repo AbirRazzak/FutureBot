@@ -9,7 +9,7 @@ There was a running joke when my roommates and I were looking at places in Phila
 I've been wanting to learn the language for a while now just for fun and personal use, and I thought that this project would be a great way to get some exposure to the language through experimental learning.
 
 ### What is the goal of this project?
-The goal of the project is to utilize Julia's PyCall library to import discord.py and use it in the Julia language. The ultimate goal is to obviously create some neat and nifty features for the bot to make our lives as roommates easier. Though we may end up not actually using the bot, perhaps it may be of use to someone else out there on the Internet looking for solutions to roommate-related tasks.
+The goal of the project is to utilize Julia's PyCall library to import [discord.py](https://discordpy.readthedocs.io/en/rewrite/index.html) and use it in the [Julia language](https://julialang.org/). The ultimate goal is to obviously create some neat and nifty features for the bot to make our lives as roommates easier. Though we may end up not actually using the bot, perhaps it may be of use to someone else out there on the Internet looking for solutions to roommate-related tasks.
 
 ### Will this bot be public?
 I will not be making this bot public as I do not want to bear the responsibility of hosting this bot for others to use. However, you're more than welcome to register your own bot at [Discord's Developer Portal](https://discordapp.com/developers) and host it yourself. If you do decide to use this bot, I'd love to see some screenshots of someone else putting my work to good use! :)
